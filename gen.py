@@ -1,6 +1,6 @@
 from random import randrange
 
-def getsmiley()
+def getsmiley():
     eye=[':','8','B']
     mouth=[')','D','>','C','/','E','S','P','O','o','|','3']
 
